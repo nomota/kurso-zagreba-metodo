@@ -1,57 +1,57 @@
 - 
-  demando: Who is your girl-friend?
+  demando: 당신의 여자친구는 누구인가?
   rektatraduko:
-    - Kiu: Who
-    - estas: is
-    - via: your
-    - amikino: girl-friend
+    - Kiu: 누구
+    - estas: 인가
+    - via: 당신의
+    - amikino: 여자친구
     - '?'
 - 
-  demando: Is your friend Anna now writing in the room?
+  demando: 당신의 친구 안나가 지금 그 방 안에서 쓰고 있는가?
   rektatraduko:
-    - Ĉu: Whether
-    - via: your
-    - amikino: friend
-    - Anna: Anna
-    - skribas: writes
-    - nun: now
-    - en: in
-    - la: the 
-    - ĉambro: room
+    - Ĉu: ~인가?
+    - via: 당신의
+    - amikino: 인구
+    - Anna: 안나
+    - skribas: 쓴다
+    - nun: 지금
+    - en: 안에서
+    - la: 그
+    - ĉambro: 방
     - '?'
 - 
-  demando: Does the friend of your father work in a hotel?
+  demando: 당신의 아버지의 친구는 호텔에서 일합니까?
   rektatraduko:
-    - Ĉu: Whether
-    - la: the
-    - amiko: friend
-    - de: of
-    - via: your
-    - patro: father
-    - laboras: works
-    - en: in
-    - hotelo: hotel
+    - Ĉu: ~인가?
+    - la: 그
+    - amiko: 친구
+    - de: ~의
+    - via: 당신의
+    - patro: 아버지
+    - laboras: 일한다
+    - en: (안)에서
+    - hotelo: 호텔
     - '?'
 - 
-  demando: What is on the work-bench in our room?
+  demando: 우리 방안의 작업탁자 위에 뭣이 있나요?
   rektatraduko:
-    - Kio: What 
-    - estas: is
-    - sur: 'on'
-    - la: the
-    - labortablo: work-bench
-    - en: in
-    - nia: our
-    - ĉambro: room
+    - Kio: 무엇이 
+    - estas: 있다
+    - sur: 위에
+    - la: 그
+    - labortablo: 작업탁자
+    - en: 안에
+    - nia: 우리
+    - ĉambro: 방
     - '?'
 - 
-  demando: Is there an Esperanto textbook on your table?
+  demando: 당신의 탁자 위에 에스페란토 교과서가 있나요?
   rektatraduko:
-    - Ĉu: Whether
-    - Esperanto-lernolibro: Esperanto textbook
-    - estas: is
-    - sur: 'on'
-    - via: your 
-    - tablo: table
+    - Ĉu: ~인가요
+    - Esperanto-lernolibro: 에스페란토 교재
+    - estas: 있다
+    - sur: 위에
+    - via: 당신의 
+    - tablo: 탁자
     - '?'
 
